@@ -10,5 +10,5 @@ Hobbies: Enjoys gaming, particularly strategy and puzzle games, for the challeng
 
 ![fast logo](https://github.com/user-attachments/assets/c3940d79-eddd-4c4b-9ac2-e0e5d1eef464)
 
-#PF-lab03 
+# PF-lab03 
 Introduction to C language 
